@@ -1,0 +1,15 @@
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Debug\HiChat.exe.config
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Debug\HiChat.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Debug\HiChat.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.csprojAssemblyReference.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\MainWindow.g.cs
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\App.g.cs
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat_MarkupCompile.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat_MarkupCompile.lref
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\MainWindow.baml
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.g.resources
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.Properties.Resources.resources
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.csproj.GenerateResource.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.csproj.CoreCompileInputs.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Debug\HiChat.pdb
