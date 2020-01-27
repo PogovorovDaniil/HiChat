@@ -1,0 +1,7 @@
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\bin\Debug\getreq.exe.config
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\bin\Debug\getreq.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\bin\Debug\getreq.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\obj\Debug\getreq.csproj.CoreCompileInputs.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\obj\Debug\getreq.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\obj\Debug\getreq.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\getreq\obj\Debug\getreq.csprojAssemblyReference.cache

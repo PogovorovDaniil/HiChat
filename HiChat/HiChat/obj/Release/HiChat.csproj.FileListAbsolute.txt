@@ -1,0 +1,17 @@
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Release\HiChat.exe.config
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Release\HiChat.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Release\HiChat.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.csprojAssemblyReference.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\MainWindow.baml
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\MainWindow.g.cs
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\App.g.cs
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat_MarkupCompile.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.g.resources
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.Properties.Resources.resources
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.csproj.GenerateResource.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.csproj.CoreCompileInputs.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Release\GigCS.dll
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Release\GigCS.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.csproj.CopyComplete

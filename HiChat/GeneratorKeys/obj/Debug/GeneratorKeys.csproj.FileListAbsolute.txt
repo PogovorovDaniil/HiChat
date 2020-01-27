@@ -1,0 +1,7 @@
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\bin\Debug\GeneratorKeys.exe.config
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\bin\Debug\GeneratorKeys.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\bin\Debug\GeneratorKeys.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\obj\Debug\GeneratorKeys.csproj.CoreCompileInputs.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\obj\Debug\GeneratorKeys.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\obj\Debug\GeneratorKeys.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GeneratorKeys\obj\Debug\GeneratorKeys.csprojAssemblyReference.cache

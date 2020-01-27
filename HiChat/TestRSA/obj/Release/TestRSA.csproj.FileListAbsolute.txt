@@ -1,0 +1,7 @@
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\bin\Release\TestRSA.exe.config
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\bin\Release\TestRSA.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\bin\Release\TestRSA.pdb
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\obj\Release\TestRSA.csprojAssemblyReference.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\obj\Release\TestRSA.csproj.CoreCompileInputs.cache
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\obj\Release\TestRSA.exe
+C:\Users\gigst\Documents\GitHub\HiChat\HiChat\TestRSA\obj\Release\TestRSA.pdb

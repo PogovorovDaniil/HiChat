@@ -1,18 +1,18 @@
-﻿<Window x:Class="ClientWPF.MainWindow"
+﻿<Window x:Class="HiChar.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:ClientWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="400" Width="300">
+        Title="MainWindow" Height="400" Width="500
+        " ResizeMode="NoResize">
     <Grid>
-        <TextBlock x:Name="numCl" Text="Подключение к сети..." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="272"/>
+        <TextBox x:Name="numCl" Text="Подключение к сети..." HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="225" IsReadOnly="True" Height="23"/>
+        <TextBox x:Name="tbId" HorizontalAlignment="Right" VerticalAlignment="Top" Height="23" Margin="0,10,10,0" TextWrapping="Wrap" Width="225" ToolTip="id получателя"/>
+        <TextBox x:Name="tbMess" HorizontalAlignment="Left" Height="23" Margin="10,0,0,10" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="389" ToolTip="Сообщение" MaxLength="50" MaxLines="1" KeyUp="PressKey"/>
         <Button Content="Отправить" HorizontalAlignment="Right" Height="23" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="80" Click="SendButtonClick"/>
-        <TextBox x:Name="tbMess" HorizontalAlignment="Left" Height="23" Margin="60,0,0,10" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="140" Text="Сообщение"/>
-        <TextBox x:Name="tbId" HorizontalAlignment="Left" Height="23" Margin="10,0,0,10" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="50" Text="id"/>
-        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="290" Margin="10,40,10,0" VerticalAlignment="Top" Width="272">
-            <ScrollViewer>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="290" Margin="10,40,10,0" VerticalAlignment="Top" Width="470">
+            <ScrollViewer x:Name="Scroll">
                 <StackPanel>
                     <TextBlock x:Name="story"/>
                 </StackPanel>
