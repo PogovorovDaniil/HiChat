@@ -8,7 +8,7 @@ import base64
 #----Проверка клиента-------------------------
 def testcli(id, conn):
 	try:
-		resp = requests.post('http://185.251.38.207/fromId.php?id=' + str(id)).text.split(';')[2]
+		resp = requests.post('http://193.178.169.223/fromId.php?id=' + str(id)).text.split(';')[2]
 		key = resp.split('.')
 		mod = base64.b64decode(key[0].encode('UTF8'))
 		exp = base64.b64decode(key[1].encode('UTF8'))
@@ -36,7 +36,7 @@ def testcli(id, conn):
 #----Поток клиента----------------------------
 def Client(conn, addr, soc):
 	try:
-		data = bytearray(conn.recv(260))
+		data = bytearray(conn.recv(4))
 
 		saveid = 0
 		for i in range(4):

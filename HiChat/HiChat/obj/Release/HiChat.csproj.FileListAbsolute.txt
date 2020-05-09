@@ -9,7 +9,6 @@ C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat_MarkupCo
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.g.resources
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.Properties.Resources.resources
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.csproj.GenerateResource.cache
-C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.csproj.CoreCompileInputs.cache
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.exe
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\obj\Release\HiChat.pdb
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\HiChat\bin\Release\GigCS.dll

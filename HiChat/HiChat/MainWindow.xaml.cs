@@ -53,7 +53,6 @@ namespace HiChar
         public MainWindow()
         {
             InitializeComponent();
-            worker.DoWork += Listen;
 			try
 			{
 				FileStream fs = new FileStream("info", FileMode.Open);
@@ -70,6 +69,7 @@ namespace HiChar
 			{
 				Close();
 			}
+            worker.DoWork += Listen;
         }
 
 		private void PressKey(object sender, KeyEventArgs e)

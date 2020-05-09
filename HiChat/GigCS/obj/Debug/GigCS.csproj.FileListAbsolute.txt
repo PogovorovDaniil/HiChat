@@ -1,6 +1,5 @@
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GigCS\bin\Debug\GigCS.dll
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GigCS\bin\Debug\GigCS.pdb
-C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GigCS\obj\Debug\GigCS.csproj.CoreCompileInputs.cache
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GigCS\obj\Debug\GigCS.dll
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GigCS\obj\Debug\GigCS.pdb
 C:\Users\gigst\Documents\GitHub\HiChat\HiChat\GigCS\obj\Debug\GigCS.csprojAssemblyReference.cache

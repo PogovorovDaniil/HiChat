@@ -25,7 +25,7 @@ namespace GigCS
 		{
 			RSAself = new RSACryptoServiceProvider();
 			RSA = new RSACryptoServiceProvider();
-			address = "185.251.38.207";
+			address = "193.178.169.223";
 			port = 9090;
 			this.name = name;
 			RSAself.FromXmlString(key);
@@ -42,7 +42,7 @@ namespace GigCS
 				UserInfo info = InfoFromName(name);
 				if (info.id == 0) return false;
 				uint id = info.id;
-				byte[] data = new byte[LenData];
+				byte[] data = new byte[4];
 				AddIdToData(ref data, id);
 				socket.Send(data);
 
@@ -75,7 +75,7 @@ namespace GigCS
 		public UserInfo InfoFromName(string name)
 		{
 			string info = "";
-			WebRequest request = WebRequest.Create("http://185.251.38.207/fromName.php?name=" + name);
+			WebRequest request = WebRequest.Create("http://193.178.169.223/fromName.php?name=" + name);
 			WebResponse response = request.GetResponse();
 			using (Stream stream = response.GetResponseStream())
 			{
@@ -90,7 +90,7 @@ namespace GigCS
 		public UserInfo InfoFromId(uint id)
 		{
 			string info = "";
-			WebRequest request = WebRequest.Create("http://185.251.38.207/fromId.php?id=" + Convert.ToString(id));
+			WebRequest request = WebRequest.Create("http://193.178.169.223/fromId.php?id=" + Convert.ToString(id));
 			WebResponse response = request.GetResponse();
 			using (Stream stream = response.GetResponseStream())
 			{
